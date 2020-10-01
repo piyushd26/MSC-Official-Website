@@ -1,4 +1,4 @@
-# MSC-Official-Website
+# MSC-Official-Website - An Amazing Project
 ## Main website of Msc
 #### For requirement check requirement.txt<br>
 ##### Use Git Bash For Windows to run all the commands
